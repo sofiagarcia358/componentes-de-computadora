@@ -1,1 +1,26 @@
-hola
+.p1{
+    width: 400px;
+    font-size: 16px;
+    margin-top: -140px;
+    margin-left: 120px;
+}
+.box img {
+    margin-top: -160px;
+    margin-left: 550px;
+    width: 30%; /* ajusta el ancho de la imagen al 50% del tamaño original */
+    height: auto; /* mantiene la proporción de aspecto */
+  }
+  .title{
+    text-align: center;
+  }
+  .char{
+    margin-top: 20px;
+    margin-left: 450px;
+  }
+
+  .char2{
+    margin-left: 250px;
+    margin-top: -55px;
+  }
+
+  
